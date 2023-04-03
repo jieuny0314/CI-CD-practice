@@ -1,5 +1,5 @@
 # .github/workflows/client.yml
-# ㅇㅇ
+# gg
 name: client
 on:
   push:
